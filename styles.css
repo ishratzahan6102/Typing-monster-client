@@ -133,7 +133,10 @@ body {
   color: white;
   margin: 20px 0;
 }
-
+.title span{
+  color: #9dffad;
+  font-size: 60px;
+}
 .divider-container {
   height: 80px;
   display: flex;
